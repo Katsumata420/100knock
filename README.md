@@ -7,4 +7,5 @@ This repository is my implementation for NLP [100knock](http://www.cl.ecei.tohok
 参考にしていただければ幸いです。  
 毎週水曜更新予定  
 やったやつ  
-- 1章
+- 1章: 準備運動
+- 2章: UNIXコマンドの基礎 
